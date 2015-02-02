@@ -3,8 +3,11 @@ This is a content management system developed to manage student enrolments for t
 
 Features:
 1. Online student enrollments
+
 2. Courses management
+
 3. Contact form-AJAX
+
 4. User Management (Site-Admin/Moderator)
 5. Secured login
 6. Password encryption
