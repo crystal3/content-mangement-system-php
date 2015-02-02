@@ -21,7 +21,9 @@ Features:
 
 9. Admin can create new users/moderators
 
-and much more
+....and much more
+
+
 
 Technologies used:
 
@@ -35,9 +37,14 @@ MVC Architecture
 
 AJAX
 
+
+
 Credentials :
+
 Username: admin
+
 Password: mypass
+
 
 Feel free to post your feedback
 
